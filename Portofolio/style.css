@@ -318,7 +318,7 @@ h6 {
 }
 
 .project2 {
-    background: url('/Portofolio/freedom.jpg);
+    background-image: url('/Portofolio/freedom.jpg);
     background-size: cover;
 }
 
