@@ -313,7 +313,7 @@ h6 {
     color: #fff;
     display: block;
     top: 20%;
-    left: -300%;
+    left: -30%;
     right: 0;
     bottom: 0;
 }
@@ -339,7 +339,7 @@ h6 {
 .project3 {
     background-image: url('freedom.JPG');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .project3::after {
@@ -349,8 +349,8 @@ h6 {
     position: relative;
     color: #fff;
     display: block;
-    top: 80%;
-    left: -50%;
+    top: 20%;
+    left: -30%;
     right: 0;
     bottom: 0;
 }
