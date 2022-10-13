@@ -300,21 +300,20 @@ h6 {
 }
 
 .project1 {
-    widht: 150vw;
-    height 150vh;
     background-image: url('rain af.JPG');
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .project1::after {
-    content: "timeless flow.";
+    content: "freedom.";
     font-family: "Roboto Mono";
     font-size: 36px;
     position: relative;
     color: #fff;
     display: block;
-    top: 8%;
-    left: -60%;
+    top: 20%;
+    left: -300%;
     right: 0;
     bottom: 0;
 }
@@ -338,14 +337,13 @@ h6 {
 }
 
 .project3 {
-    widht: 150vw;
-    height: 150vh;
     background-image: url('freedom.JPG');
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .project3::after {
-    content: "never again.";
+    content: "rain.";
     font-family: "Roboto Mono";
     font-size: 36px;
     position: relative;
