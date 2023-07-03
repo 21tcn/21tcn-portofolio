@@ -300,7 +300,7 @@ h6 {
 }
 
 .project1 {
-    background-image: url('/Portofolio/10.png');
+    background-image: url('10.png');
     background-repeat: no-repeat;
     background-size: contain;
     left: 2%
@@ -320,7 +320,7 @@ h6 {
 }
 
 .project2 {
-    background-image: url('/Portofolio/11.png');
+    background-image: url('11.png');
     background-repeat: no-repeat;
     background-size: contain;
     left: 8%;
@@ -340,7 +340,7 @@ h6 {
 }
 
 .project3 {
-    background-image: url('/Portofolio/5.png');
+    background-image: url('5.png');
     background-repeat: no-repeat;
     background-size: contain;
     left: 10%;
@@ -360,7 +360,7 @@ h6 {
 }
 
 .project4 {
-    background-image: url('/Portofolio/8.2.png');
+    background-image: url('8.2.png');
     background-repeat: no-repeat;
     background-size: contain;
 }
